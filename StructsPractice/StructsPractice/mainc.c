@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include "Header.h"
 
+// The struct is made in Header.h
+
 
 int main(void) {
 	struct human bob = {"billy", "bob", 18};
